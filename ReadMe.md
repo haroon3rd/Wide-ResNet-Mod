@@ -1,4 +1,4 @@
-#Wide Residual Network with Modified Augmentation Strategies
+# Wide Residual Network with Modified Augmentation Strategies
 
 # How to train, test & predict 
 ## Follow this document to run, test, predict based on the submitted code for the final project only.
